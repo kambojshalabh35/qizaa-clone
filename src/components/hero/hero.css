@@ -1,0 +1,25 @@
+.hero {
+    height: 79.2vw;
+    background: url('https://test-henna-nine.vercel.app/hero.webp');
+    font-family: 'Open Sans', sans-serif;
+}
+
+.hero h2 {
+    font-size: 49px;
+    font-weight: 900 !important;
+    letter-spacing: 7.4px;
+}
+
+.hero p {
+    font-size: 21px;
+    font-weight: 900 !important;
+    letter-spacing: 2.1px;
+}
+
+.hero .btn-explore {
+    width: 100px;
+    background-color: #71b3f2;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

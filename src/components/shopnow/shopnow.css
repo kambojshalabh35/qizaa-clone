@@ -1,0 +1,39 @@
+.shopnow h2 {
+    font-size: 30px;
+    letter-spacing: 0.3px;
+    margin-top: 40px;
+}
+
+.shopitem {
+    cursor: pointer;
+}
+
+.shopitem_image {
+    height: 350px;
+    overflow: hidden;
+}
+
+.shopitem_image .display {
+    text-align: center;
+    transition: 0.5s;
+}
+
+.shopitem_image .display button {
+    border: none;
+    width: 100%;
+    background-color: rgba(244, 243, 243, 0.804);
+}
+
+.shopitem_image:hover .display {
+    margin-top: -46px;
+}
+
+.shopitem h4 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.shopitem p {
+    font-size: 13px;
+    color: #524E4E;
+}
