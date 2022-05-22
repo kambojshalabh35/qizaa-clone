@@ -1,0 +1,46 @@
+.footer-top {
+    background-color: #232f3e;
+}
+
+.footertop h3 {
+    color: white;
+    font-size: 17px;
+}
+
+.footertop p {
+    color: white;
+    font-size: 14px;
+}
+
+.footertop ul {
+    list-style: none;
+    color: white;
+    padding: 0 !important;
+}
+
+.footertop ul li {
+    cursor: pointer;
+}
+
+.footer-bottom {
+    background-color: #131a22;
+}
+
+.footerbottom {
+    padding-top: 150px;
+    color: white;
+}
+
+.footer-bottom p {
+    color: white ;
+    margin: 0;
+}
+
+.footer-bottom a {
+    color: #00f700;
+    transition: 0.3s;
+}
+
+.footer-bottom a:hover {
+    color: #84ff84;
+}

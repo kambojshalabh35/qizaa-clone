@@ -24,6 +24,10 @@
     color: black;
 }
 
+.base img {
+    max-width: 80%;
+}
+
 .base h3 {
     font-size: 32px;
     letter-spacing: 0.2px;
